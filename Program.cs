@@ -8,5 +8,6 @@ class Program
         Console.WriteLine(args.Length);
         int k = 0;
         k++;
+        "hello".Substring(0,2);
     }
 }
