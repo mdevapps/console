@@ -6,8 +6,8 @@ class Program
     {
         // Display the number of command line arguments:
         Console.WriteLine(args.Length);
-        int k = 0;
-        k++;
+        int z = 0;
+        z++; //variable name rename
         "hello".Substring(0,2);
     }
 }
